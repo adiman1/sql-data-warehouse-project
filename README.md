@@ -14,20 +14,15 @@ The **Gold Layer** represents the business-level data model, designed to support
 **Purpose:**  
 Stores detailed information about customers, enriched with demographic and geographic attributes.
 
----
-
 ### 2. `gold.dim_products`
 
 **Purpose:**  
 Contains product information including categories, pricing, and maintenance requirements.
 
----
-
 ### 3. `gold.fact_sales`
 
 **Purpose:**  
 Captures transactional sales data for quantitative analysis and performance measurement.
-
 ---
 
 ## 🚀 Usage
@@ -37,7 +32,6 @@ This data model is typically used in:
 - KPI reporting
 - Customer and product analytics
 - Sales performance tracking
-
 ---
 
 ## 📌 Notes
@@ -47,16 +41,6 @@ This data model is typically used in:
 - This layer is designed to be downstream from cleaned and transformed silver-layer data.
 
 ---
-
-## 📂 Repository Structure
-
-├── README.md
-├── data_catalog/
-│ ├── dim_customers.sql
-│ ├── dim_products.sql
-│ └── fact_sales.sql
-└── diagrams/
-└── data_model.png
 
 ## 📝 License
 
