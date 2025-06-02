@@ -9,7 +9,7 @@ This project demonstrates a complete data warehousing and analytics solution —
 
 The project follows the **Medallion Architecture** consisting of three layers:
 
-[📄 View Data Architecture Diagram (PDF)](diagrams/dwh_architecture.pdf)
+📌 [📄 View Detailed Architecture Diagram (PDF)](diagrams/DWH%20Architecture.pdf)
 
 - **Bronze Layer**:  
   Stores raw data as-is from source systems. In this project, data is ingested from CSV files into a SQL Server database.
