@@ -91,8 +91,6 @@ Use SQL to generate business insights for:
 
 Empower business users with actionable KPIs for better decision-making.
 
-📄 *For more details, see* `docs/requirements.md`
-
 ---
 
 ## 📝 License
