@@ -102,3 +102,8 @@ Empower business users with actionable KPIs for better decision-making.
 
 This project is licensed under the [MIT License](LICENSE).  
 
+--- 
+## Thanks
+
+To Baraa Khatib Salkini of Data with Baraa for this project. 
+
