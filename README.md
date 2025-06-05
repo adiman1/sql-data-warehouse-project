@@ -39,6 +39,8 @@ This repository covers:
 - **Analytics & Reporting**:  
   Writing SQL queries and dashboards to generate insights on sales, customers, and products.
 
+- Additional help documentations can be found in docs folder
+
 ---
 
 ## 🎯 Skills Demonstrated
