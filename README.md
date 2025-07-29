@@ -65,7 +65,6 @@ All tools and resources used in this project are **free** and beginner-friendly:
 - 🧠 **SQL Server Management Studio (SSMS)**: GUI for managing databases  
 - 💻 **GitHub**: Version control, code management, and collaboration  
 - 📊 **DrawIO**: Used for data architecture and model diagrams  
-- 📝 **Notion**: Project management and documentation (Project template included)  
 
 ---
 
